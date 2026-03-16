@@ -1,0 +1,11 @@
+category_id,category_name,weight,framework
+1,Greeting & Opening,0.1,Framework_A
+2,Active Listening,0.15,Framework_A
+3,Problem Resolution,0.2,Framework_A
+4,Compliance & Script,0.2,Framework_A
+5,Empathy & Tone,0.15,Framework_A
+6,Call Closing,0.1,Framework_A
+7,Documentation Accuracy,0.1,Framework_A
+8,Hold & Transfer Protocol,0.1,Framework_B
+9,Data Verification,0.15,Framework_B
+10,Escalation Handling,0.2,Framework_B
